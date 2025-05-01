@@ -3,5 +3,15 @@
     "main": "明文源码.js",
     "vars": {
         "UUID": "test"
-    }
+    },
+    "compatibility_date": "2025-05-01",
+    "observability": {
+      "enabled": true
+    },
+    "kv_namespaces": [
+      {
+        "binding": "KV",
+        "id": "tunnel-ip"
+      }
+    ]
 }
