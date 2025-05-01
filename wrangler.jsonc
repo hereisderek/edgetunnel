@@ -10,8 +10,8 @@
     },
     "kv_namespaces": [
       {
-        "binding": "tunnel-ip",
-        "id": "KV"
+        "binding": "KV",
+        "id": "a67faf49b82848288caf4f9dcccb77f9"
       }
     ]
 }
