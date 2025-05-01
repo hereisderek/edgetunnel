@@ -1,4 +1,7 @@
 {
-    "name": "edgetunnel",
-    "main": "明文源码.js"
+    "name": "tunnel",
+    "main": "明文源码.js",
+    "vars": {
+        "UUID": "test"
+    }
 }
